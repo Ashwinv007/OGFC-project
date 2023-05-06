@@ -1,0 +1,45 @@
+.achievements-wrapper {
+    width: 100%;
+    background-image: url(http://itcity-inner.yes45.in/assets/images/bg/ser-bg1.jpg);
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top:30px;
+    align-items: center;
+  }
+  
+ /* .achievement-bar{
+    margin-left:0.5em;
+    background: linear-gradient(to bottom, #5cb85c, #ffd700);
+    max-width: 10px;
+    min-height:50px;
+ } */
+
+/* #invisible{
+    
+    color: transparent;
+
+} */
+  
+
+
+#achievements-title {
+    
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+ 
+  
+  .achievement-images {
+    text-align: center;
+    margin-top: 70px;
+  }
+  
+  .achievement-images img {
+    margin-right: 30px;
+  }

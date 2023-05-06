@@ -1,0 +1,17 @@
+.parallax-container {
+  background-image: url(http://itcity-inner.yes45.in/assets/images/gulfcompanyproduct/backgound/sunflower1.jpg) ;
+  background-size: cover;
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:50vh;
+  
+}
+
+.parallax-text {
+  font-size: 48px;
+  font-weight: bold;
+  color: #ffffff;
+  text-shadow: 1px 1px 1px #000000;
+}
